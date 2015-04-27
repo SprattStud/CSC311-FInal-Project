@@ -70,4 +70,9 @@ public interface Constants
 	public final int CONNECTED = 0;
 	/** Bluetooth connection status DISCONNECTED */
 	public final int DISCONNECTED = 1;
+	
+	public static final int PAINT_COLOR = 0xff666666; // grey
+	public static final int ARTILLERY_WIDTH_FRAC = 25;
+	public static final int ARTILLERY_HEIGHT_FRAC = 50;
+    	public static final int ARTILLERY_SPACE_FRAC = 50;
 }
